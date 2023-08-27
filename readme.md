@@ -3,3 +3,5 @@ this is a smiple project
 when you reload the website its randmoly display the dice , the dice which have more value or dot 
 <br>
 that side of player is winner
+<br>
+visit here -->> https://9ikhil.github.io/dice-challenge/
